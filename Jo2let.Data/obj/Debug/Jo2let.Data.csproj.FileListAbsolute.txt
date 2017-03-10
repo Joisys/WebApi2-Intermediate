@@ -1,0 +1,12 @@
+C:\GitHub\Jo2let.Data\bin\Debug\Jo2let.Data.dll.config
+C:\GitHub\Jo2let.Data\bin\Debug\Jo2let.Data.dll
+C:\GitHub\Jo2let.Data\bin\Debug\Jo2let.Data.pdb
+C:\GitHub\Jo2let.Data\bin\Debug\EntityFramework.dll
+C:\GitHub\Jo2let.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Jo2let.Data\bin\Debug\Jo2let.Model.dll
+C:\GitHub\Jo2let.Data\bin\Debug\Jo2let.Model.pdb
+C:\GitHub\Jo2let.Data\bin\Debug\EntityFramework.xml
+C:\GitHub\Jo2let.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Jo2let.Data\obj\Debug\Jo2let.Data.csprojResolveAssemblyReference.cache
+C:\GitHub\Jo2let.Data\obj\Debug\Jo2let.Data.dll
+C:\GitHub\Jo2let.Data\obj\Debug\Jo2let.Data.pdb

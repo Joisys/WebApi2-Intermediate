@@ -120,10 +120,6 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Jo2let.Data\Jo2let.Data.csproj">
-      <Project>{D71AA742-DE98-4099-954B-F91B393E0678}</Project>
-      <Name>Jo2let.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Jo2let.Infrastructure\Jo2let.Infrastructure.csproj">
       <Project>{66C73117-4DDD-4570-890B-727A51F4A7B9}</Project>
       <Name>Jo2let.Infrastructure</Name>
