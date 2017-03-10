@@ -63,6 +63,10 @@
     <Compile Include="UnitOfWork\UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Jo2let.Data\Jo2let.Data.csproj">
+      <Project>{D71AA742-DE98-4099-954B-F91B393E0678}</Project>
+      <Name>Jo2let.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Jo2let.Model\Jo2let.Model.csproj">
       <Project>{BE772D8E-36C5-4AFE-8949-3E8C07514CDF}</Project>
       <Name>Jo2let.Model</Name>

@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2let.Api", "WebApi2-Intermediate\Jo2let.Api.csproj", "{E4B47ACF-DEBC-41D8-BB3A-BCFAD8B0799F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2let.Data", "..\Jo2let.Data\Jo2let.Data.csproj", "{D71AA742-DE98-4099-954B-F91B393E0678}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2let.Model", "Jo2let.Model\Jo2let.Model.csproj", "{BE772D8E-36C5-4AFE-8949-3E8C07514CDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2let.Infrastructure", "Jo2let.Infrastructure\Jo2let.Infrastructure.csproj", "{66C73117-4DDD-4570-890B-727A51F4A7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2let.Data", "Jo2let.Data\Jo2let.Data.csproj", "{D71AA742-DE98-4099-954B-F91B393E0678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{E4B47ACF-DEBC-41D8-BB3A-BCFAD8B0799F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B47ACF-DEBC-41D8-BB3A-BCFAD8B0799F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B47ACF-DEBC-41D8-BB3A-BCFAD8B0799F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D71AA742-DE98-4099-954B-F91B393E0678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D71AA742-DE98-4099-954B-F91B393E0678}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D71AA742-DE98-4099-954B-F91B393E0678}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D71AA742-DE98-4099-954B-F91B393E0678}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BE772D8E-36C5-4AFE-8949-3E8C07514CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE772D8E-36C5-4AFE-8949-3E8C07514CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE772D8E-36C5-4AFE-8949-3E8C07514CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{66C73117-4DDD-4570-890B-727A51F4A7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C73117-4DDD-4570-890B-727A51F4A7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C73117-4DDD-4570-890B-727A51F4A7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71AA742-DE98-4099-954B-F91B393E0678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71AA742-DE98-4099-954B-F91B393E0678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71AA742-DE98-4099-954B-F91B393E0678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71AA742-DE98-4099-954B-F91B393E0678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
